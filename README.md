@@ -19,7 +19,7 @@ pip install numpy matplotlib tensorflow
 1. Clone the repository
 
 ```bash
-git clone [repository-link from under the green ![code button](image-1.png) button above]
+git clone [repository-link from under the green "code" button above]
 ```
 
 2. Navigate to the project directory:
