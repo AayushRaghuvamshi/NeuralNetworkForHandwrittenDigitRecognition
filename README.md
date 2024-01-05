@@ -17,13 +17,22 @@ pip install numpy matplotlib tensorflow
 ## Running the Project
 
 1. Clone the repository
-   `git clone [repository-link from under the green ![Alt text](image-1.png) button above]`
+
+```bash
+git clone [repository-link from under the green ![code button](image-1.png) button above]
+```
 
 2. Navigate to the project directory:
-   `cd NeuralNetworkForHandwrittenDigitRecognition`
+
+```bash
+cd NeuralNetworkForHandwrittenDigitRecognition
+```
 
 3. Run the script:
-   `python main.py`
+
+```bash
+python main.py
+```
 
 ## Model Architecture
 
